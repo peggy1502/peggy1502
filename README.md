@@ -16,22 +16,31 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&nbsp;&nbsp;   
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>&nbsp;&nbsp;   
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp; 
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp; 
+<a href="https://scikit-learn.org/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&nbsp;&nbsp;   
+<a href="https://www.tensorflow.org" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&nbsp;&nbsp; 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>&nbsp;&nbsp;   
+<a href="https://aws.amazon.com" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>&nbsp;&nbsp; 
+<a href="https://cloud.google.com" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp; 
 </p>
 
-<h3 align="left">Certifications:</h3>
-<a href="https://www.youracclaim.com/badges/9e89cedf-320a-49d2-a2c8-e77be1d36cb4/public_url"><img src="https://raw.githubusercontent.com/peggy1502/peggy1502/master/aws-certified-solutions-architect-associate.png"></a>&nbsp;&nbsp;
+<h3 align="left">Certification and Skill Badges:</h3>
+<p align="left"> 
+<a href="https://www.youracclaim.com/badges/9e89cedf-320a-49d2-a2c8-e77be1d36cb4/public_url">
+  <img src="https://raw.githubusercontent.com/peggy1502/peggy1502/master/aws-certified-solutions-architect-associate.png"></a> &nbsp;&nbsp; 
+<a href="https://google.qwiklabs.com/public_profiles/c0a951c2-747f-4e4a-9520-3a67696131fb">
+  <img src="https://raw.githubusercontent.com/peggy1502/peggy1502/master/GoogleCloudSB.png"></a>
+</p>
 
-
-
-
+<!--Github stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peggy1502&show_icons=true&locale=en&layout=compact" alt="peggy1502" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peggy1502&show_icons=true&locale=en" alt="peggy1502" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=peggy1502&show_icons=true&locale=en" alt="peggy1502" /></p>
 
 
 <!--
