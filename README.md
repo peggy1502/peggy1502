@@ -6,7 +6,11 @@
 - 🔭 I’m currently working on cool stuffs and improving my portfolio
 - 🌱 I’m currently learning and playing around with AWS SageMaker, Google BigQuery and BigQuery ML
 - 👯 I’m looking to collaborate on data science and machine learning projects
-- ⚡ Fun fact: ...
+- ⚡ Fun fact (from Cassie Kozyrkov) : 
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Precision</b>: "Don't waste my time. Missed opportunities are okay."
+<b>Recall</b>: "Collect 'em all. Duds are okay."
+<b>Accuracy</b>: "All mistakes are equally bad."
+<b>F-measure</b>: "I can't choose between precision and recall."
 
 <h3 align="left">Connect with me:</h3>
 
@@ -25,7 +29,7 @@
 <a href="https://www.tensorflow.org" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&nbsp;&nbsp; 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>&nbsp;&nbsp;   
+  <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>&nbsp;&nbsp;     
 <a href="https://aws.amazon.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>&nbsp;&nbsp; 
 <a href="https://cloud.google.com" target="_blank"> 
