@@ -2,15 +2,19 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peggy1502&label=Profile%20views&color=0e75b6&style=flat" alt="peggy1502" /> </p>
-
-- 🔭 I’m currently working on cool stuffs and improving my portfolio
-- 🌱 I’m currently learning and playing around with AWS SageMaker, Google BigQuery and BigQuery ML
-- 👯 I’m looking to collaborate on data science and machine learning projects
-- ⚡ Fun fact (from Cassie Kozyrkov) : 
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Precision</b>: "Don't waste my time. Missed opportunities are okay."
-<b>Recall</b>: "Collect 'em all. Duds are okay."
-<b>Accuracy</b>: "All mistakes are equally bad."
-<b>F-measure</b>: "I can't choose between precision and recall."
+<ul>
+    <li>🔭 I’m currently working on cool stuffs and improving my portfolio</li>
+    <li>🌱 I’m currently learning and playing around with AWS SageMaker, Google BigQuery and BigQuery ML</li>
+    <li>👯 I’m looking to collaborate on data science and machine learning projects</li>
+    <li>⚡ Fun fact (from Cassie Kozyrkov) :
+        <ul>
+            <li><i><b>Precision</b> : "Don't waste my time. Missed opportunities are okay."</i></li>
+            <li><i><b>Recall</b> : "Collect 'em all. Duds are okay."</i></li>
+            <li><i><b>Accuracy</b> : "All mistakes are equally bad."</i></li>
+            <li><i><b>F-measure</b> : "I can't choose between precision and recall."</i></li>
+        </ul>
+    </li>    
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 
