@@ -6,6 +6,7 @@
     <li>🔭 I’m currently working on cool stuffs and improving my portfolio</li>
     <li>🌱 I’m currently learning and playing around with AWS SageMaker, Google BigQuery and BigQuery ML</li>
     <li>👯 I’m looking to collaborate on data science and machine learning projects</li>
+    <li>📝 <a href="https://peggy1502.medium.com/">Click here</a> for my data science articles published on Medium</li>    
     <li>⚡ Fun facts (from Cassie Kozyrkov) :
         <ul>
             <li><i><b>Precision</b> : "Don't waste my time. Missed opportunities are okay."</i></li>
@@ -21,6 +22,8 @@
 <a href="mailto:peggy1502@gmail.com"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg"></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/peggy1502/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://public.tableau.com/profile/peggy.chang#!/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tableau.svg"></a>&nbsp;&nbsp;
+<a href="https://peggy1502.medium.com/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg"></a>&nbsp;&nbsp;
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
