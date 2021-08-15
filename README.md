@@ -7,7 +7,7 @@
     <li>🌱 I’m currently learning and playing around with AWS SageMaker, Google BigQuery and BigQuery ML</li>
     <li>👯 I’m looking to collaborate on data science and machine learning projects</li>
     <li>📝 <a href="https://peggy1502.medium.com/">Click here</a> for my data science articles published on Medium</li>    
-    <li>⚡ Fun facts (from Cassie Kozyrkov) :
+    <li>😄 I love these fun facts from Cassie Kozyrkov:
         <ul>
             <li><i><b>Precision</b> : "Don't waste my time. Missed opportunities are okay."</i></li>
             <li><i><b>Recall</b> : "Collect 'em all. Duds are okay."</i></li>
