@@ -6,7 +6,7 @@
     <li>🔭 I’m currently working on cool stuffs and improving my portfolio</li>
     <li>🌱 I’m currently learning and playing around with AWS SageMaker, Google BigQuery and BigQuery ML</li>
     <li>👯 I’m looking to collaborate on data science and machine learning projects</li>
-    <li>📝 <a href="https://peggy1502.medium.com/">Click here</a> for my data science articles I write on Medium</li>    
+    <li>📝 I have just started writing on Medium, <a href="https://peggy1502.medium.com/17c76da3403?source=friends_link&sk=0fc1d1199174a065636c186e90342c90">click here</a> to check out my data science articles</li>    
     <li>😄 I love these fun facts from Cassie Kozyrkov:
         <ul>
             <li><i><b>Precision</b> : "Don't waste my time. Missed opportunities are okay."</i></li>
