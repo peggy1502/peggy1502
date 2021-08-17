@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="mailto:peggy1502@gmail.com"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg"></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/peggy1502/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://public.tableau.com/profile/peggy.chang#!/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tableau.svg"></a>&nbsp;&nbsp;
 <a href="https://peggy1502.medium.com/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg"></a>&nbsp;&nbsp;
@@ -72,6 +71,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 **Connect with me:**  
+<a href="mailto:peggy1502@gmail.com"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg"></a>&nbsp;&nbsp;
 <a href="mailto:peggy1502@gmail.com"><img height="20" src="https://raw.githubusercontent.com/peggy1502/peggy1502/master/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/peggy1502/"><img height="18" src="https://raw.githubusercontent.com/peggy1502/peggy1502/master/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://public.tableau.com/profile/peggy.chang#!/"><img height="20" src="https://raw.githubusercontent.com/peggy1502/peggy1502/master/tableau.svg"></a>&nbsp;&nbsp;
