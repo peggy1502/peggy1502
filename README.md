@@ -7,7 +7,7 @@
     <li>🌱 I’m currently learning and playing around with AWS SageMaker, Google BigQuery and BigQuery ML</li>
     <li>👯 I’m looking to collaborate on data science and machine learning projects</li>
     <li>📝 I have just started writing on Medium, <a href="https://peggy1502.medium.com/17c76da3403?source=friends_link&sk=0fc1d1199174a065636c186e90342c90">click here</a> to check out my data science article</li>    
-    <li>😄 I love these fun facts from Cassie Kozyrkov:
+    <li>😄 I love these fun facts from <a href="https://www.linkedin.com/posts/kozyrkov_mfml-044-precision-vs-recall-activity-6825741484722032640-gYEy">Cassie Kozyrkov</a>:
         <ul>
             <li><i><b>Precision</b> : "Don't waste my time. Missed opportunities are okay."</i></li>
             <li><i><b>Recall</b> : "Collect 'em all. Duds are okay."</i></li>
