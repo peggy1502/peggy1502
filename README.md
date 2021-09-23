@@ -17,10 +17,10 @@
     <li>📝 I have just started writing on Medium, <a href="https://peggy1502.medium.com/">click here</a> to check out my articles published in <b>Towards Data Science</b></li> 
 </ul>
 
-<p align="left">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0" alt="Recent Article 0">
-    
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1" alt="Recent Article 1">    
+<p>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0" alt="Recent Article 0"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1" alt="Recent Article 1"></a>    
 </p>
 
 <h3 align="left">Connect with me:</h3>
