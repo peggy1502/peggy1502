@@ -6,7 +6,6 @@
     <li>🔭 I’m currently working on cool stuffs and improving my portfolio</li>
     <li>🌱 I’m currently learning and playing around with AWS SageMaker, Google BigQuery and BigQuery ML</li>
     <li>👯 I’m looking to collaborate on data science and machine learning projects</li>
-    <li>📝 I have just started writing on Medium, <a href="https://peggy1502.medium.com/">click here</a> to check out my articles published in <b>Towards Data Science</b></li>    
     <li>😄 I love these fun facts from <a href="https://www.linkedin.com/posts/kozyrkov_mfml-044-precision-vs-recall-activity-6825741484722032640-gYEy">Cassie Kozyrkov</a>:
         <ul>
             <li><i><b>Precision</b> : "Don't waste my time. Missed opportunities are okay."</i></li>
@@ -14,8 +13,15 @@
             <li><i><b>Accuracy</b> : "All mistakes are equally bad."</i></li>
             <li><i><b>F-measure</b> : "I can't choose between precision and recall."</i></li>
         </ul>
-    </li>    
+    </li> 
+    <li>📝 I have just started writing on Medium, <a href="https://peggy1502.medium.com/">click here</a> to check out my articles published in <b>Towards Data Science</b></li> 
 </ul>
+
+<p align="left">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0" alt="Recent Article 0">
+    
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1" alt="Recent Article 1">    
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
