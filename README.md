@@ -50,6 +50,8 @@
 
 <h3 align="left">Certification and Skill Badges:</h3>
 <p align="left"> 
+<a href="https://www.credly.com/badges/24b73a41-060e-4922-944f-d419664271b9/public_url">
+  <img src="https://raw.githubusercontent.com/peggy1502/peggy1502/master/aws-certified-machine-learning-specialty.png"></a> &nbsp;&nbsp; 
 <a href="https://www.youracclaim.com/badges/9e89cedf-320a-49d2-a2c8-e77be1d36cb4/public_url">
   <img src="https://raw.githubusercontent.com/peggy1502/peggy1502/master/aws-certified-solutions-architect-associate.png"></a> &nbsp;&nbsp; 
 <a href="https://google.qwiklabs.com/public_profiles/c0a951c2-747f-4e4a-9520-3a67696131fb">
