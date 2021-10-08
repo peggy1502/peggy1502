@@ -20,7 +20,9 @@
 <p>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0" alt="Recent Article 0"></a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1" alt="Recent Article 1"></a>    
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/1" alt="Recent Article 1"></a> 
+    
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/2" alt="Recent Article 2"></a>    
 </p>
 
 <h3 align="left">Connect with me:</h3>
