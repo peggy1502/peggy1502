@@ -14,7 +14,7 @@
             <li><i><b>F-measure</b> : "I can't choose between precision and recall."</i></li>
         </ul>
     </li> 
-    <li>📝 I have just started writing on Medium, <a href="https://peggy1502.medium.com/">click here</a> to check out my articles published in <b>Towards Data Science</b></li> 
+    <li>📝 I write data science articles on Medium, <a href="https://peggy1502.medium.com/">click here</a> to check out my articles published in <b>Towards Data Science</b></li> 
 </ul>
 
 <p>
