@@ -1,6 +1,6 @@
 ### Hi there, I'm Peggy 👋 
 
-#### I'm a data science and AI enthusiast who loves building machine learning models and exploring solutions and ideas to develop new capabilities.
+#### I'm a data science and AI enthusiast who loves to experiment and try out new things, build machine learning models, and explore solutions and ideas to develop new capabilities.
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peggy1502&label=Profile%20views&color=0e75b6&style=flat" alt="peggy1502" /> </p>
