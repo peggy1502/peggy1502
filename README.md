@@ -7,6 +7,7 @@
 <ul>
     <li>🔭 I’m currently working on cool stuffs and improving my portfolio</li>
     <li>🌱 I’m currently learning and playing around with AWS SageMaker, Google BigQuery and BigQuery ML</li>
+    <li>🛠️ Also, I'm honing my technical skills on data structures and algorithms to write more efficient codes </li>
     <li>👯 I’m looking to collaborate on data science and machine learning projects</li>
     <li>😄 I love these fun facts from <a href="https://www.linkedin.com/posts/kozyrkov_mfml-044-precision-vs-recall-activity-6825741484722032640-gYEy">Cassie Kozyrkov</a>:
         <ul>
