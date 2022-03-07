@@ -23,7 +23,7 @@
     -->
 </ul>
 
-#### 📝 <a href="https://peggy1502.medium.com/">  Click here</a> to check out my data science articles published in `Towards Data Science` and `Towards AI`
+#### 🌈 <a href="https://peggy1502.medium.com/">  Click here</a> to check out my data science articles published in `Towards Data Science` and `Towards AI`
 
 <p>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/0" alt="Recent Article 0"></a>
