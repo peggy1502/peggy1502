@@ -48,7 +48,7 @@
 <a href="https://linkedin.com/in/peggy1502/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://public.tableau.com/profile/peggy.chang#!/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tableau.svg"></a>&nbsp;&nbsp;
 <a href="https://peggy1502.medium.com/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg"></a>&nbsp;&nbsp;
-
+<a href='https://ko-fi.com/V7V0ECSEF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
