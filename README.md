@@ -41,6 +41,8 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/6" alt="Recent Article 6"></a>  
     
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/7" alt="Recent Article 7"></a>  
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@peggy1502/8" alt="Recent Article 8"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
